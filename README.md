@@ -3,7 +3,9 @@ La Práctica 1A tiene como objetivo principal familiarizar a los estudiantes con
 En el primer punto de la práctica, se generaron señales a distintas frecuencias, evaluándose la amplitud de las mismas utilizando un osciloscopio. Los resultados mostraron una tendencia a la disminución de la amplitud conforme aumentaba la frecuencia.
 En el segundo punto, se amplió el análisis al medir la potencia de las señales en un rango más amplio de frecuencias, destacando que el cable utilizado atenuaba más las señales a frecuencias superiores. Los datos recopilados fueron organizados en tablas y representados gráficamente para una mejor visualización de los resultados.
 Para un análisis más profundo de estos experimentos y sus conclusiones, se recomienda consultar la plataforma Moodle. La siguiente práctica, 1B, se centrará en el impacto de las altas frecuencias en la transmisión alámbrica.
+
 ![imagen](https://github.com/user-attachments/assets/7b62929a-c147-4744-8d89-738ef1c23e23)
+
 enseñanza:
 La importancia de la transformación entre el dominio del tiempo y el dominio de la frecuencia:
 En un laboratorio, al observar una señal como la de la parte superior de la imagen, se puede notar cómo las variaciones en la amplitud y la forma de la señal en el tiempo afectan su representación en el espectro de frecuencia (parte inferior). Esta transformación es fundamental para comprender las características de la señal y su comportamiento en diferentes aplicaciones.
