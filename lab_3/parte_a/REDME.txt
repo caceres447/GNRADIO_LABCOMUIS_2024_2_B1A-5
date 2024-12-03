@@ -1,0 +1,7 @@
+La Práctica 3A se enfocó en el análisis de diversas características de las señales AM.
+
+En el primer punto, se realizaron análisis de tres casos de modulación. En cada caso, se midió la potencia de la señal utilizando un espectrómetro. Las evidencias de estas mediciones están disponibles en el directorio. Todos los datos obtenidos se registraron en una tabla.
+
+El segundo punto consistió en el análisis de tres casos de modulación con diferentes índices de modulación. El objetivo era identificar diversas características de la señal, esta vez utilizando un osciloscopio. Se realizaron mediciones de parámetros como Ac, Am, y se calculó el índice de modulación. Los resultados se plasmaron en una tabla y se determinó la potencia de la señal utilizando los datos medidos. Todas las evidencias de medición correspondientes a este punto se encuentran en el repositorio. Cabe mencionar que la tabla utilizada es la misma que la del punto anterior.
+
+Finalmente, el análisis más detallado de esta práctica se encuentra disponible en la plataforma Moodle.
