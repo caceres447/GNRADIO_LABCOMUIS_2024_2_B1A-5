@@ -4,3 +4,4 @@ En el primer punto de la práctica, se generaron señales a distintas frecuencia
 En el segundo punto, se amplió el análisis al medir la potencia de las señales en un rango más amplio de frecuencias, destacando que el cable utilizado atenuaba más las señales a frecuencias superiores. Los datos recopilados fueron organizados en tablas y representados gráficamente para una mejor visualización de los resultados.
 Para un análisis más profundo de estos experimentos y sus conclusiones, se recomienda consultar la plataforma Moodle. La siguiente práctica, 1B, se centrará en el impacto de las altas frecuencias en la transmisión alámbrica.
 [lab_1/parte_a/p4-.png](https://github.com/caceres447/GNURADIO_LABCOMUIS_2024_2_B1A-5/blob/main/lab_1/parte_a/p4-.png)
+![imagen](https://github.com/user-attachments/assets/7b62929a-c147-4744-8d89-738ef1c23e23)
