@@ -1,0 +1,7 @@
+La Práctica 4A se centró en el análisis de señales de radio a diferentes frecuencias.
+
+En el primer punto, se estudiaron diversas características de estas señales de radio. utilizando las señales vistas a traves de gnu radio pudimos identificar si la señal de rapido transmitia contenia o no diferentes parametros especificos, todo este analisis se puede ver en la tabla que se encuentra en el repositorio.
+Entre los aspectos más destacados de este punto, el grupo de trabajo aprendió a sintonizar emisoras de radio en el PC utilizando una antena y un receptor de radio, además de medir sus características como el ancho de banda y la potencia.
+
+En el segundo punto, la antena se conectó directamente al analizador de espectros para medir la potencia y el ancho de banda de las señales utilizando el criterio de los -20 dB.la evidencia de las mediciones está disponible en este directorio. Las evidencias pueden ser identificadas por su nombre, y este formato se repite para cada emisora analizada.
+Una de las conclusiones importantes de este punto es que las señales de FM pueden ser analizadas de manera efectiva utilizando herramientas como el espectrómetro.
