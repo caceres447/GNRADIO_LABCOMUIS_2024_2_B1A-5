@@ -1,0 +1,9 @@
+La Práctica 2B estuvo centrada en el estudio de cómo el ruido impacta las señales en canales alámbricos e inalámbricos.
+
+En el primer punto, se llevó a cabo el montaje del diagrama en GNUradio según las indicaciones de la práctica.
+
+En el segundo punto, se realizó un análisis de una señal transmitida por cable y conectada a un osciloscopio, donde se observó cómo el ruido afectaba la señal.
+
+En el tercer punto, se examinó una señal generada de manera inalámbrica por el profesor. Para esto, se utilizó una antena receptora, y la señal fue analizada mediante un espectrómetro.
+
+Todas las evidencias y registros de las mediciones y análisis realizados están organizados en sus carpetas correspondientes. Además, el análisis más detallado de la práctica está disponible en la plataforma Moodle.
