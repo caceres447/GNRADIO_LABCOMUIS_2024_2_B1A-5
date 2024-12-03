@@ -1,0 +1,8 @@
+La Práctica 1B tiene como objetivo analizar el impacto de las frecuencias altas en la transmisión alámbrica.
+
+En el punto 1, se generó una señal a distintas frecuencias y se midió la amplitud de la señal recibida en el osciloscopio. Se observó que, a medida que la frecuencia aumentaba, la amplitud disminuía. La evidencia de estos resultados se encuentra disponible en el repositorio correspondiente.
+
+En el punto 2, se repitió el proceso pero para un mayor número de frecuencias. En este caso, se midió la potencia de las señales, y los datos obtenidos fueron registrados en una tabla.
+A partir de estos datos, se realizó una gráfica que mostró que, conforme aumentaba la frecuencia, el cable atenuaba más la señal.
+
+Es importante señalar que el análisis más detallado de esta práctica se encuentra en la plataforma Moodle.
